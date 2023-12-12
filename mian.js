@@ -1,5 +1,3 @@
-# HiuChung_Lin_FinalProject
-```
 let today = new Date();
     
     function getDaysUntilChristmas(){
@@ -14,8 +12,3 @@ let today = new Date();
         return remainingDays;
     }
     console.log(getDaysUntilChristmas());
-```
-![image](/Screenshot%202023-12-12%20at%2011.44.59%20AM.png)
-![image](/Screenshot%202023-12-12%20at%2011.50.21%20AM.png)
-![image](/Screenshot%202023-12-12%20at%2011.53.13%20AM.png)
-
